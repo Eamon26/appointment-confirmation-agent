@@ -1,0 +1,3 @@
+anthropic>=0.40   # only needed with ANTHROPIC_API_KEY set
+twilio>=9.0       # only needed to really send texts
+pytest>=8.0
